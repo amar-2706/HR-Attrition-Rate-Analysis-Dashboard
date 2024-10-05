@@ -1,5 +1,3 @@
-# HR-Analysis-Dashboard
-
 # HR Attrition Rate Dashboard
 
 ## Overview
